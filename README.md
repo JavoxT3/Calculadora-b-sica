@@ -1,3 +1,3 @@
-<h1>Calculadora-básica</h1>
+<h1>Calculadora básica</h1>
 
 :construction: En construción :construction:
